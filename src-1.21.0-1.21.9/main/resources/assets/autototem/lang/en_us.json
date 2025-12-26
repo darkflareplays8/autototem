@@ -1,0 +1,11 @@
+{
+  "key.autototem.toggle": "Toggle Auto Totem",
+  "category.autototem": "Auto Totem",
+  "text.autoconfig.autototem.title": "Auto Totem Config",
+  "text.autoconfig.autototem.option.enabled": "Enabled",
+  "text.autoconfig.autototem.option.enabled.@Tooltip": "Enable/disable auto totem",
+  "text.autoconfig.autototem.option.tickDelay": "Tick Delay",
+  "text.autoconfig.autototem.option.tickDelay.@Tooltip": "Delay in ticks before equipping (0-20)",
+  "text.autoconfig.autototem.option.toggleKeyCode": "Toggle Key Code",
+  "text.autoconfig.autototem.option.toggleKeyCode.@Tooltip": "GLFW key code for toggle key (default: 82 for R). Updates instantly!"
+}
