@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "autototem",
+  "version": "1.9.8",
+  "name": "Auto Totem+",
+  "description": "Automatically equips totems to offhand",
+  "authors": ["ProfessionalFlare"],
+
+  "license": "All Rights Reserved",
+  "icon": "assets/autototem/icon.png",
+
+  "environment": "client",
+
+  "entrypoints": {
+    "client": [
+      "com.example.autototem.AutoTotemMod"
+    ],
+    "modmenu": [
+      "com.example.autototem.ModMenuIntegration"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": "1.20.1",
+    "fabric-api": "*",
+    "cloth-config": "*" 
+  },
+
+  "suggests": {
+    
+  }
+}
